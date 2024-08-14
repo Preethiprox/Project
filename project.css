@@ -1,0 +1,150 @@
+body{
+	margin: solid black 2px;
+}
+#background{
+	background-color:white;
+	background-repeat:no-repeat;
+	background-position:fixed;
+	background-size:100% 100%;
+	margin: solid black 2px;
+}
+#header{
+	background-color:orange;
+	height:12%;
+	width:100%;
+	font-size:50px;
+	text-transform:uppercase;
+}
+#banner1{
+	background-color:silver;
+	height:50%;
+	width:100%;
+	
+}
+#subbanner{
+	background-color:green;
+	height:100%;
+	width:80%;
+	background-position:center;
+	margin-left:10%;
+	background-image: url("../image/11111.webp");
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+    
+}
+#banner2{
+	background-color:silver;
+	height:50%;
+	width:20%;
+	margin:2.5%;
+	float:left;
+	font-size:20px;
+	text-decoration:none;
+	text-align:center;
+	
+}
+#banner3{
+	background-color:silver;
+	height:50%;
+	width:20%;
+	margin:2.5%;
+	float:left;
+	font-size:20px;
+	text-decoration:none;
+	text-align:center;
+
+}
+#banner4{
+	background-color:silver;
+	height:50%;
+	width:20%;
+	margin:2.5%;
+	float:left;
+	font-size:20px;
+	text-decoration:none;
+	text-align:center;
+	
+
+	
+}
+#banner5{
+	background-color:silver;
+	height:50%;
+	width:20%;
+	float:right;
+	margin:2.5%;
+	font-size:20px;
+	text-decoration:none;
+	text-align:center;
+	
+	
+}
+#footer1{
+	clear:both;
+	background-color:orange;
+	height:15%;
+	width:100%;
+	
+}
+#footer2{
+	background-color:silver;
+	height:10%;
+	width:100%;
+	
+}
+ #header ul{
+	font-size:20px;
+	text-transform:uppercase;
+	display:inline;
+    float:right;
+	
+}
+#header ul li{
+	display:inline;
+	margin-left:15px;
+	margin:15px;
+	
+}
+p{
+	font-size:60px;
+	color:white;
+	text-transform:uppercase;
+	text-align:center;
+	padding:100px;
+}
+#banner2 i{
+	font-size:100px;
+	padding:10px;
+	color:red;
+}
+#banner3 i{
+	font-size:100px;
+	padding:10px;
+	color:blue;
+}
+#banner4 i{
+	font-size:100px;
+	padding:10px;
+	color:yellow;
+}
+#banner5 i{
+	font-size:100px;
+	padding:10px;
+	color:blue;
+}
+#footer1 i {
+	font-size:10px;
+	padding:45px;
+	text-align:center;
+	color:black;
+}
+#footer1{
+	font-size:20px;
+	color:black;
+	text-align:center;
+}
+#footer2{
+	font-size:20px;
+	color:black;
+	text-align:center;
+
